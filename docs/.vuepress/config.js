@@ -4,6 +4,10 @@ module.exports = {
     host: "0.0.0.0",
     port: 8080,
 
+    head: [ 
+        ['link', { rel: 'icon', href: '/g.jpg' }],
+      ],
+
     markdown: {
         lineNumbers: false  // 代码块行号
       },
