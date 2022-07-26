@@ -19,17 +19,17 @@ module.exports = {
         ],
         
         sidebar: {
-            '/' : [
-                "/",
-                "everydaysign",
-                "arcaea",
-                "maimai",
-                "osu",
-                "pjsk",
-                "sdvx",
-                "ycm",
-                "others",
-                "about"
+            '/channel' : [
+                "/channel/",
+                "/channel/everydaysign",
+                "/channel/arcaea",
+                "/channel/maimai",
+                "/channel/osu",
+                "/channel/pjsk",
+                "/channel/sdvx",
+                "/channel/ycm",
+                "/channel/others",
+                "/channel/about"
             ]
         },
         repo: 'chieri-bot/guild-bot-docs',

@@ -89,15 +89,21 @@
 
 
 
-## 查询 Tempestissimo 解锁密码
+## 查询谱面预览
 
-- 指令: `/arc connect`
+- 指令: `/arc charts 曲名 [难度]`
 
-:::tip
 
-详细解锁方法可以查看[Arcaea wiki](https://wiki.arcaea.cn/index.php/Tempestissimo)
 
-:::
+## 切换查分图样式
+
+### 切换最近成绩样式
+
+- `/arc conf img` - 重复输入该指令, 可在 `chieri bot v2`, `chieri bot v3`, `RABiBOT` 之间切换
+
+### 切换B30样式
+
+- `/arc b30 set v2/v3/v4`
 
 
 
@@ -115,4 +121,4 @@
 
 ## 有车吗
 
-- Arcaea模块支持车牌查询, 详见: [有车吗](/ycm)
+- Arcaea模块支持车牌查询, 详见: [有车吗](/channel/ycm)

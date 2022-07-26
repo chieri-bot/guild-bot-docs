@@ -73,4 +73,4 @@
 
 ## 有车吗
 
-- Project Sekai模块支持车牌查询, 详见: [有车吗](/ycm)
+- Project Sekai模块支持车牌查询, 详见: [有车吗](/channel/ycm)
