@@ -39,6 +39,7 @@ module.exports = {
                 "/group/sdvx",
                 "/group/umamusume",
                 "/group/image",
+                "/group/aidraw",
                 "/group/langtool",
                 "/group/gacha",
                 "/group/coderun",
