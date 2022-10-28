@@ -27,6 +27,7 @@ module.exports = {
                 "/channel/osu",
                 "/channel/pjsk",
                 "/channel/sdvx",
+                "/channel/chunithm",
                 "/channel/ycm",
                 "/channel/others",
                 "/channel/about"
@@ -37,6 +38,7 @@ module.exports = {
                 "/group/osu",
                 "/group/pjsk",
                 "/group/sdvx",
+                "/group/chunithm",
                 "/group/umamusume",
                 "/group/image",
                 "/group/aidraw",
