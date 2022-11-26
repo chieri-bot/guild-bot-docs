@@ -18,12 +18,12 @@
 
 :::
 
-- [店铺链接](https://www.xinxinfaka.cn//links/B87F4890)
+- [爱发电](https://afdian.net/a/chieri)
 
-- [20次](https://www.xinxinfaka.cn//details/91B0A46E)
-- [100次](https://www.xinxinfaka.cn//details/FF893802)
-- [200次](https://www.xinxinfaka.cn//details/65997EC9)
-- [500次](https://www.xinxinfaka.cn//details/410F2945)
+- [20次](https://afdian.net/item?plan_id=9a46d5526d8611edbab452540025c377)
+- [100次](https://afdian.net/item?plan_id=e4ddd2406d9611ed92c552540025c377)
+- [200次](https://afdian.net/item?plan_id=295a81366d9a11edaa9c52540025c377)
+- [500次](https://afdian.net/item?plan_id=4bc7e3a86d9a11edb55f52540025c377)
 
 
 
