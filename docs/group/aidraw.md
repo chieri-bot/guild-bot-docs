@@ -54,3 +54,15 @@ tag仅支持英文
 
 
 - 上面两种指令均支持传入示例图, 在消息末尾附加一张图片即可, 仅支持一张图片, 会额外消耗一点点数
+
+
+
+## 网页端
+
+- [点击进入](https://www.chinosk6.cn/ai/draw)
+
+- 本人不会前端，欢迎pr一个更好看的界面: [https://github.com/chieri-bot/chieri-aidraw-web](https://github.com/chieri-bot/chieri-aidraw-web)
+- 使用之前，您需要在网页注册一个账号，QQ号码请正确填写，密码自行设置，不建议和其它地方使用同样的密码。
+- 注册之后，您将得到一个验证码，使用您注册时填写的 QQ 向 Bot 发送 `/aiaccount verify 验证码` 即可。网页端的点数和Bot端的点数通用。
+- 若您忘记了密码，使用注册时使用的 QQ 向 Bot 发送 `/aiaccount update code` 即可获得新的验证码，在网页端的"修改密码"页面填写此验证码即可。
+
