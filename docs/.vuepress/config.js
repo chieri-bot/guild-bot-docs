@@ -55,7 +55,18 @@ module.exports = {
                 "/group/others",
                 "/group/log",
                 "/group/about",
-            ]
+            ],
+            '/discord' : [
+              "/discord/cs",
+              "/discord/arcaea",
+              "/discord/maimai",
+              "/discord/osu",
+              "/discord/pjsk",
+              "/discord/sdvx",
+              "/discord/ycm",
+              "/discord/setu",
+              "/discord/others"
+          ],
         },
         repo: 'chieri-bot/guild-bot-docs',
         repoLabel: 'GitHub',
