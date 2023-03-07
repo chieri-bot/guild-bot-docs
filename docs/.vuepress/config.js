@@ -42,6 +42,7 @@ module.exports = {
                 "/group/umamusume",
                 "/group/image",
                 "/group/aidraw",
+                "/group/chatgpt",
                 "/group/langtool",
                 "/group/gacha",
                 "/group/coderun",

@@ -4,6 +4,8 @@
 
 由于成本过高, 本功能为付费功能
 
+此功能将于4月下线
+
 :::
 
 - 基于 [novelai.net](https://novelai.net/)
