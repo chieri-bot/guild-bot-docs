@@ -1,6 +1,55 @@
 # Arcaea (韵律源点)
 
-- [Arcaea](https://arcaea.lowiro.com/)是一款音乐游戏, 使用本功能之前, 请确保您拥有一个`Arcaea`账户
+- [Arcaea](https://arcaea.lowiro.com/) 是一款音乐游戏, 使用本功能之前, 请确保您拥有一个`Arcaea`账户
+
+
+
+## 同步数据 (前置条件)
+
+:::warning 注意
+
+由于旧查分渠道被封锁，若要查分，您必须先同步数据
+
+目前不需要订阅 Arcaea Online 也可以同步数据
+
+:::
+
+- 1. 安装 [油猴脚本 Tampermonkey](https://www.tampermonkey.net/)，电脑/手机均可。手机端推荐 [FireFox](https://www.mozilla.org/zh-CN/firefox/browsers/mobile/)。**手机电脑均可，操作步骤完全相同。**
+
+  2. 进入脚本的设置页面，点击 `实用工具`，在 `从 URL 安装` 输入框内输入下面的[地址](https://www.chinosk6.cn/arc/arc_tm.js)，然后点击安装
+
+     ```
+     https://www.chinosk6.cn/arc/arc_tm.js
+     ```
+
+     ![step1](/tm_step1.png)
+
+  3. 进入 [Arcaea 官网](https://arcaea.lowiro.com/zh/profile/)，若脚本正常安装，你应该可以看到右下角有一个如下图所示的工具框。若没有，请刷新一下页面，或者检查脚本是否正常安装。
+
+     ![step2](/tm_step2.png)
+
+  4. **登录你的账号**
+
+  5. 点击 `Update Bests` 即可同步数据！具体功能介绍请看下方。**若弹出跨域请求框，请点击允许，否则无法同步数据。**
+
+  
+
+- 下面是各部分功能说明
+
+  - `From Rank`  - 从排行榜同步数据，不需要订阅 Arcaea Online，数据最全。
+  - `From Purchase`  - 从官方订阅接口获取数据，**需要订阅 Arcaea Online 才能使用**，数据不全，无法获取 `Pure/Far/Lost` 数据。
+  - `Upload Cookie` - 将您的 Cookie 上传到服务器，在此 Cookie 的有效期内，查询最近成绩和单曲最佳都不需要手动同步数据了 (查询 B30 仍然需要手动同步)。
+  
+  
+  
+- 默认情况下，选定 `Update Self Bests`，即更新自己的 B30。
+
+- 若您害怕因为同步 B30 数据导致自己的账号被封禁，可以按照下面的步骤使用小号查询：
+
+  - 1. 登录你的大号，点击 `Update Me` 即可。
+    2. 换上你的小号，加上大号的好友，选择 `Update Others Bests`。
+    3. 在下拉列表内找到你的大号，然后点击 `Update Bests` 即可使用小号同步。
+
 
 
 
