@@ -15,6 +15,7 @@
 - [舞萌 DX 查分器](https://www.diving-fish.com/maimaidx/prober/) - maimai
 - [Project Sekai Profile](https://profile.pjsekai.moe/) - Project Sekai
 - [sekai.best](https://sekai.best/) - Project Sekai
+- [nonebot_plugin_pjsk](https://github.com/Agnes4m/nonebot_plugin_pjsk) - Project Sekai 部分代码和贴纸数据
 - `Arcana` - SDVX成绩查询
 
 

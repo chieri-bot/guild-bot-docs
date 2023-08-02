@@ -39,6 +39,28 @@
 
 
 
+## yinglish
+
+- 指令: `/yinglish 文本`
+
+
+
+# 群yinpa
+
+:::warning 注意
+
+请勿滥用此功能
+
+此模块已开源: [Github](https://github.com/chieri-bot/impart)
+
+:::
+
+- 开启/关闭此功能 (仅管理员，默认关闭): `/yp enable` / `/yp disable`
+
+- 查看指令列表: `/yp help`
+
+
+
 # 隐水印
 
 ## 将一段文本作为隐水印插入另一段文本

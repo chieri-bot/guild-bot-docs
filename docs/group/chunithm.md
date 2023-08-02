@@ -6,6 +6,13 @@
 
 ## 查询Best 30
 
+### 切换数据来源
+
+- `/chu switch`
+- 当前支持 `divingfish (默认)` 和 `louis` API
+
+
+
 ### 查询自己QQ绑定账号的B30
 
 - `/chu b30`

@@ -4,33 +4,33 @@
 
 
 
-## Bind Account
+## ~~Bind Account~~
 
-- Command: `/pjsk bind yourID`
+- ~~Command: `/pjsk bind yourID`~~
 
 
 
-## Update Cache
+## ~~Update Cache~~
 
 :::warning
 
-In order to relieve the pressure on the server and improve the query speed, we have made a cache for the query, and the validity period of the cache is 10 minutes. During this time, your information will not be updated. If you need to force an update, use this command.
+~~In order to relieve the pressure on the server and improve the query speed, we have made a cache for the query, and the validity period of the cache is 10 minutes. During this time, your information will not be updated. If you need to force an update, use this command.~~
 
 :::
 
-- Command: `/pjsk update`
+- ~~Command: `/pjsk update`~~
 
 
 
-## User Profile
+## ~~User Profile~~
 
-- Command: `/pjsk profile`
+- ~~Command: `/pjsk profile`~~
 
 
 
-## Single Song Grades
+## ~~Single Song Grades~~
 
-- Command: `/pjsk info songname`
+- ~~Command: `/pjsk info songname`~~
 
 
 
