@@ -1,7 +1,55 @@
 # Arcaea (韵律源点)
 
 - [Arcaea](https://arcaea.lowiro.com/) 是一款音乐游戏, 使用本功能之前, 请确保您拥有一个`Arcaea`账户
+- 目前 B30 查询基于本地 `st3` 数据库，请查看下方同步流程
+- 成绩管理页: [https://www.chinosk6.cn/arc/](https://www.chinosk6.cn/arc/)
 
+
+
+## 同步本地 `st3` 数据库
+
+- 请根据您的情况选择
+- 本地数据可能和部分云端数据不匹配。若要修改这部分数据，请前往 [网页端](https://www.chinosk6.cn/arc/) 管理您的成绩
+- 您也可以查看[这篇文档](https://cong.reikohaku.fun/ab30.html)
+
+
+
+### 使用安卓设备，设备未 ROOT，不使用 LSPatch 等工具
+
+1. 下载共存包（`arc 比三菱 x.x.xc(无root可用).apk`）: [https://wwm.lanzouq.com/b01g0jfgd](https://wwm.lanzouq.com/b01g0jfgd) 密码: 5e2w
+2. 在共存包中登陆你的账号，**并同步云端数据**
+3. 点击右上角 chieri 头像，选择 `Upload st3` 即可
+
+
+
+### 使用安卓设备，设备未 ROOT，使用 LSPatch
+
+1. 下载 XP 模块并安装: （`arc_st3_upload(xp模块).apk`）: [https://wwm.lanzouq.com/b01g0jfgd](https://wwm.lanzouq.com/b01g0jfgd) 密码: 5e2w
+2. 在 LSPatch 中，使用本地模式修补你的 Arcaea 并安装（以前做过的可跳过此步骤）
+3. 修改 Arcaea 的模块作用域，勾选第一步安装好的模块
+4. 启动游戏，**并同步云端数据**
+5. 点击右上角 chieri 头像，选择 `Upload st3` 即可
+
+
+
+### 使用安卓设备，设备已 ROOT
+
+1. 下载 XP 模块并安装: （`arc_st3_upload(xp模块).apk`）: [https://wwm.lanzouq.com/b01g0jfgd](https://wwm.lanzouq.com/b01g0jfgd) 密码: 5e2w
+2. 启用模块，作用域勾选 Arcaea
+3. 启动游戏，**并同步云端数据**
+4. 点击右上角 chieri 头像，选择 `Upload st3` 即可
+
+
+
+### 我能够自己提取 st3 文件
+
+1. 前往[网站](https://www.chinosk6.cn/arc/) - `账号管理` 页即可手动上传
+
+
+
+### 使用苹果设备，且身边没有安卓设备，且没有电脑，不能使用安卓模拟器
+
+- 请自行想办法（
 
 
 
@@ -180,15 +228,13 @@
 
 
 
-## 同步数据
+## 使用浏览器脚本同步数据 (已废弃)
 
 :::warning 注意
 
 **使用官方接口查询B30**
 
-目前不需要订阅 Arcaea Online 也可以同步数据
-
-**iOS 安装方式不同，并且无法同步 cookie。请参考[这篇文章](https://docs.nightcode.cn/guide/ab30/)，安装完成后跳转到第三步。**
+**iOS 安装方式不同，并且无法同步 cookie。请参考[这篇文章](https://cong.reikohaku.fun/ab30.html#%E4%BD%BF%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E8%84%9A%E6%9C%AC%E4%B8%8A%E4%BC%A0-%E4%B8%8D%E6%8E%A8%E8%8D%90)，安装完成后跳转到第三步。**
 
 :::
 
