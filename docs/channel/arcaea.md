@@ -17,7 +17,7 @@
 
 ### 使用安卓设备，设备未 ROOT，不使用 LSPatch 等工具
 
-1. 下载共存包（`arc 比三菱 x.x.xc(无root可用).apk`）: [https://wwm.lanzouq.com/b01g0jfgd](https://wwm.lanzouq.com/b01g0jfgd) 密码: 5e2w
+1. 下载共存包（`arc 比三菱 x.x.xc(无root可用).apk`）: [https://www.123pan.com/s/u5mrVv-asSHH.html](https://www.123pan.com/s/u5mrVv-asSHH.html) 密码: 0721
 2. 在共存包中登陆你的账号，**并同步云端数据**
 3. 点击右上角 chieri 头像，选择 `Upload st3` 即可
 
@@ -25,7 +25,7 @@
 
 ### 使用安卓设备，设备未 ROOT，使用 LSPatch
 
-1. 下载 XP 模块并安装: （`arc_st3_upload(xp模块).apk`）: [https://wwm.lanzouq.com/b01g0jfgd](https://wwm.lanzouq.com/b01g0jfgd) 密码: 5e2w
+1. 下载 XP 模块并安装: （`arc_st3_upload(xp模块).apk`）: [https://www.123pan.com/s/u5mrVv-asSHH.html](https://www.123pan.com/s/u5mrVv-asSHH.html) 密码: 0721
 2. 在 LSPatch 中，使用本地模式修补你的 Arcaea 并安装（以前做过的可跳过此步骤）
 3. 修改 Arcaea 的模块作用域，勾选第一步安装好的模块
 4. 启动游戏，**并同步云端数据**
@@ -35,7 +35,7 @@
 
 ### 使用安卓设备，设备已 ROOT
 
-1. 下载 XP 模块并安装: （`arc_st3_upload(xp模块).apk`）: [https://wwm.lanzouq.com/b01g0jfgd](https://wwm.lanzouq.com/b01g0jfgd) 密码: 5e2w
+1. 下载 XP 模块并安装: （`arc_st3_upload(xp模块).apk`）: [https://www.123pan.com/s/u5mrVv-asSHH.html](https://www.123pan.com/s/u5mrVv-asSHH.html) 密码: 0721
 2. 启用模块，作用域勾选 Arcaea
 3. 启动游戏，**并同步云端数据**
 4. 点击右上角 chieri 头像，选择 `Upload st3` 即可
