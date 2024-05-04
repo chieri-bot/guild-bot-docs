@@ -22,7 +22,7 @@ tokens 价格按照 openAI 官网价格换算到人民币 + 平台 `6%` 抽成 �
 
 ## Chat 相关
 
-- 设置群内 system prompt: `/chat set system  你的prompt`
+- 设置群内或个人的 system prompt: `/chat set system 你的prompt`
 - 删除自定义 system prompt: `/chat del system`
 - 对话: `/chat`
 - 切换对话模式为 `群内共享上下文 (默认)` / `个人独立上下文` 模式: `/chat switch`
