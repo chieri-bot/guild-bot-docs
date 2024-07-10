@@ -30,3 +30,6 @@ tokens 价格按照 openAI 官网价格换算到人民币 + 平台 `6%` 抽成 �
   - 您也可以一次回滚多轮对话，例如回滚 3 轮对话: `/chat rb 3`
 - 查看对话历史: `/chat history`
 - 刷新对话记录: `/chat refresh`, `/chat ref`
+- 将您的 token 共享给群友使用: `/chat share 数量`
+  - 仅在 `群内共享上下文` 模式下可用，优先扣除群共享 token。
+  - 若用户为 `个人独立上下文` 模式，则仅从用户个人 token 中扣除。
